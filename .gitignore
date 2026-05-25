@@ -1,0 +1,12 @@
+# secrets / local env
+api_keys.txt
+.env
+.env.*
+*.key
+secrets*.json
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
