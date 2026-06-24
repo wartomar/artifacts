@@ -1,0 +1,4 @@
+dataset,method,n_audit,random_state,gpt52_overall_0to1,atomicity_1to5,testability_1to5,unambiguity_1to5,conciseness_1to5,faithfulness_1to5,spearman_rqi2_vs_overall
+cornelius,M2,500,42,0.7307,3.826,3.184,3.184,4.832,3.242,0.372
+cornelius,M3,500,42,0.6679,3.120,3.246,3.174,4.534,2.624,0.368
+cornelius,M4,500,42,0.6702,3.138,3.260,3.168,4.548,2.642,0.384
