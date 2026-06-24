@@ -16,5 +16,5 @@ $env:HF_TOKEN = "your-new-hf-token"
 Artifacts:
 - paper_artifact.csv                  Cornelius, 900 rows
 - qure_experiment_results.csv         QuRE, 900 rows
-- paper_artifact_rubric_supplement.csv GPT-5.2 rubric scores (Cornelius audit, n=500) — see RUBRIC_SUPPLEMENT_README.md
+- paper_artifact_rubric_supplement.csv GPT-5.2 rubric scores (Cornelius audit, n=500)
 - requirements.lock.txt               pinned environment
